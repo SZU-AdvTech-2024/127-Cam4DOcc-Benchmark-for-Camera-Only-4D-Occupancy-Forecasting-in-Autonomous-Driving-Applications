@@ -1,0 +1,8 @@
+@inproceedings{REPO127,
+    author = "Ma, Junyi and Chen, Xieyuanli and Huang, Jiawei and Xu, Jingyi and Luo, Zhen and Xu, Jintao and Gu, Weihao and Ai, Rui and Wang, Hesheng",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    month = "June",
+    pages = "21486-21495",
+    title = "{Cam4DOcc: Benchmark for Camera-Only 4D Occupancy Forecasting in Autonomous Driving Applications}",
+    year = "2024"
+}
